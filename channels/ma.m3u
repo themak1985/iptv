@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zBgr8ot.jpg" group-title="",2M Maroc
-http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=maroc2
 #EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="",2M Monde
 http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
 #EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="",2M Monde
